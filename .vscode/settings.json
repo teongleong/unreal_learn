@@ -1,7 +1,10 @@
 {
 	"files.exclude": {
-		"D:/Code/Unreal Projects/UU/.vscode": true,
-		"D:/Code/Unreal Projects/UU/Content": true,
-		"D:/Code/Unreal Projects/UU/Intermediate": true
+		"C:/Users/ccectl/code/unreal_learn/.git": true,
+		"C:/Users/ccectl/code/unreal_learn/.vs": true,
+		"C:/Users/ccectl/code/unreal_learn/.vscode": true,
+		"C:/Users/ccectl/code/unreal_learn/Content": true,
+		"C:/Users/ccectl/code/unreal_learn/Intermediate": true,
+		"C:/Users/ccectl/code/unreal_learn/Saved": true
 	}
 }
